@@ -6,7 +6,7 @@
 ## 📌 About  
 This is a classic **Snake Game** built using **Python** and **Pygame**. The player controls a snake that moves around the screen, eating food to grow longer while avoiding collisions with itself and the screen boundaries.  
 
-## 🎮 How to Play  
+## 🎮 How to Play   
 - Use the **Arrow Keys** (`← ↑ ↓ →`) to move the snake.  
 - Eat the **red food** to grow longer.  
 - Avoid hitting the **walls** and **your own tail**.  

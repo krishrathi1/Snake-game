@@ -14,7 +14,7 @@ This is a classic **Snake Game** built using **Python** and **Pygame**. The play
  
 ## 🛠 Features  
 ✅ Simple and interactive UI   
-✅ Score display at the top of the screen  
+✅ Score display at the top of the screen   
 ✅ Smooth movement and game mechanics   
 ✅ Game restart option after losing  
  

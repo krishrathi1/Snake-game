@@ -12,7 +12,7 @@ This is a classic **Snake Game** built using **Python** and **Pygame**. The play
 - Avoid hitting the **walls** and **your own tail**.  
 - If you lose, press **Enter** to restart the game.  
  
-## 🛠 Features  
+## 🛠 Features   
 ✅ Simple and interactive UI   
 ✅ Score display at the top of the screen   
 ✅ Smooth movement and game mechanics   

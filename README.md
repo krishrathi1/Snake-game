@@ -11,7 +11,7 @@ This is a classic **Snake Game** built using **Python** and **Pygame**. The play
 - Eat the **red food** to grow longer.  
 - Avoid hitting the **walls** and **your own tail**.  
 - If you lose, press **Enter** to restart the game.  
-
+ 
 ## 🛠 Features  
 ✅ Simple and interactive UI  
 ✅ Score display at the top of the screen  

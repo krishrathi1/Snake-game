@@ -17,7 +17,7 @@ This is a classic **Snake Game** built using **Python** and **Pygame**. The play
 ✅ Score display at the top of the screen  
 ✅ Smooth movement and game mechanics   
 ✅ Game restart option after losing  
-
+ 
 ## 🖥️ Installation  
 ### 1️⃣ Install Python (if not installed)  
 Download and install Python from [here](https://www.python.org/downloads/).  

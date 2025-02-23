@@ -40,7 +40,7 @@ python snake_game.py
 ## 📜 Code Structure  
 - **gameLoop()** → Main game loop  
 - **our_snake()** → Draws the snake  
-- **display_score()** → Displays the current score  
+- **display_score()** → Displays the current score   
 - **message()** → Shows messages on the screen  
 
 ## 🚀 Future Improvements  

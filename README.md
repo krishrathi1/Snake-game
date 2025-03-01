@@ -1,5 +1,3 @@
-
-
 ### 🐍 Snake Game using Pygame  
 
 
